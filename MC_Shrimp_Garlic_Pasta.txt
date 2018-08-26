@@ -3,7 +3,7 @@ Garlic Pasta
 Menu Class: Main Course
 
 Description:
-This is simple yet irresistable. You can serve a large portion as a main dish at dinner parties. This is perfect for parties.
+This is a new dessert menu.
 
 Servings: 45
 
